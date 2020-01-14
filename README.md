@@ -29,14 +29,18 @@ Evaluation:
 
 Netflix includes a clearly visible navigation bar at the top of its landing page. Since the viewers' gaze scans from left to right, Netflix prioritizes information important to the viewers (ie. whether they want to watch a movie or a show) on the top corner of the left side of the landing page, and places administrative account information at the right corner of the landing page. Furthermore, the location of the navigation bars is consistent on every page in Netflix, so the user knows where to look to find out what page they are on. Furthermore, once the user selects a button on the navigation bar (ie. Home/TV Shows/Movie), the button becomes bolded. This provides appropriate feedback to the user and informs his or her that their interaction was successful. Overall, Netflix very well satisfies the first heuristic. 
 
-Severity Ratings: 0
+Severity Ratings: n/a (I don't believe there is a major usability issue)
 
-2. Match between system and the real world 
+### 2. Match between system and the real world 
 	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
 	Follow real-world conventions, making information appear in a natural and logical order. 
 
-Evaluation
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+Evaluation: 
+
+Netflix consistently uses words and phrases familiar to the user such as "TV Shows" "Movies" "Latest" "Home". However, words such as "My Netflix" is less clear in world world context, and require the users to learn that it comprises lists of shows that the user watched in the past, and lists of shows the the user favorited. Nevertheless, I thought this categorization made sense because it basically comprises content personalized for the user, hence it's called "My Netflix". In addition, the icons on the right hand of the page does not have obvious meaning to the user. I wouldn't know what the present icon meant unless I clicked into it and learned that I can purchase Netflix as a gift to a friend. 
+
+Severity Ratings: 2 
+
 
 3. User control and freedom 
 	Users often choose system functions by mistake.
