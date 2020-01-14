@@ -95,7 +95,7 @@ Severity Rating: 1 (Netflix can improve on diminishing the error margin of using
 Evaluation: 
 Netflix has incredibly aesthetic and minimalist design. As the user enters the landing page, they see a giant, high quality cinematically pleasing moving picture, which sets up a tone of anticipation. Netflix didn't use the block formatting of many other streaming platforms that crowd the landing page and feels claustrophobic. In addition, Netflix puts a still photo in place of a video that doesn't load. This way, instead of seeing a loading video, which could be annoying, the user would see a high quality still image. 
 
-Severity Rating: n/a (It's amazing)
+Severity Rating: n/a (It's amazing!)
 
 
 ### 9. Help users recognize, diagnose, and recover from errors 
@@ -103,14 +103,17 @@ Severity Rating: n/a (It's amazing)
 	Precisely indicate the problem
 	Constructively suggest a solution. 
 
-Evaluation
+Evaluation:
+Netflix uses clear and empathetic language when expressing an error. It says things like "Something went wrong. Please refresh the page to enjoy Netflix again. We'll wait for you." It attempts to assuage the user's frustration and impatience at encoutering an error, and it provides a suggested solution. 
+
+Severity Rating: n/a
 
 
 ### 10. Help and documentation 
 	Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 	Help  information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
 
-Evaluation
+Evaluation: 
 
 [Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
 
