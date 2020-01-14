@@ -51,29 +51,37 @@ Evaluation:
 
 Netflix provides a high degree of user control and freedom. If the user accidentally click into any show or movie on the landing page, a banner with the description of the content shows up in the center of the page, without covering the rest of the landing page. This banner has a clear exit sign, and the viewer can clearly see the rest of the landing page beneath the banner, they will remain oriented to their position in the website once they exit the banner. However, there is one issue regarding this heuristic that Netflix can potentially improve on. When a user clicks into a picture, the exit symbol is demonstrated by an "X" on the right upper corner as the picture loads. However, after the picture finishes loading and the movie plays, the user can only exit by pressing the arrow button on the left upper corner. The change of position is confusing and makes it harder to exit. 
 
-Severity Ratings: 1 
+Severity Ratings: 2 (User uses the exit function frequently, and it would be frustrating if they can't find it since it changed place)
 
 ### 4. Consistency and standards 
 	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
 	Follow platform conventions. 
 
-Evaluation
+Evaluation: 
 
+Netflix uses consistent wording on all navigation buttons (ie. "TV Shows" "Movie"). In addition, it's layout of films and tv shows is consistent across all pages. On every page, shows are seperated into categories that are vertically laid out on the page. Each image has the same dimension and same distance between them. The only exception to this is when Netflix wants to draw greater attention to certain shows, such as its Netflix Originals, it will make the images of those shows larger. 
 
+Severity Ratings: n/a (I don't believe there are significant problems)
 
 5. Error prevention 
 	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 
-Evaluation
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+Evaluation: 
+Netflix attempts to prevent users from starting a movie by accidentally clicking into it by showing the banner of the film the first time the user clicks on its image. If the user clicks a second time, the movie will actually start. However, this isn't fail-proof since the users can easily misclick the play button and end up starting a movie they don't want to watch. Other types of error on Netflix are often network related errors (the wifi is down), so it's not as preventable. 
+
+Severity Rating: 2 (It could be annoying if the user accidentally clicks into a film and has to go through the hassle of existing, and this mistake could happen frequently)
+
 
 6. Recognition rather than recall 
 	Make objects, actions, and options visible. 
 	User should not have to remember information from one part of the dialogue to another. 
 	Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
 
-Evaluation
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+Evaluation: 
+For the most part, Netflix makes it easy for users to find a show they are looking for by finding it in their watch history, or in their saved list. If users are looking for a movie they've already seen, they don't have to recall the titles of the movie, but simply have to recognize the movie's image in the list. However, although Netflix has a watch history, it doesn't have a search history. Therefore, users would have to recall titles they've searched for in the past but haven't watched. 
+
+Severity Rating: 1 (Netflix has designed their website to encourage users to find new content through exploration rather than from searching for a title; thus, this problem hasn't impacted my experience)
+
 
 7. Flexibility and efficiency of use 
 	Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
