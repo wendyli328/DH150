@@ -114,6 +114,8 @@ Severity Rating: n/a
 	Help  information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
 
 Evaluation: 
+Netflix's help center is not visible from the landing page but easily accessible. It can be accessed by clicking on the user's profile on the upper right corner, and then click "help center." Netflix automatically identifies the issue that the user is currently experiencing at the top of the page,  without the user having to search for it. It also provides a question search bar, and a neatly categorized columns of FAQ's if the user scrolls down. In addition, if the user's question is still unresolved, Netflix includes a calling option at the end of the page. The whole layout of the page is logical and is closely aligned with the psychology of the user. 
 
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+Severity: n/a (Although it's not as visible from the landing page, it's easy to find, and the help instructions are clear and easy to follow)
+
 
