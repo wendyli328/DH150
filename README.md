@@ -1,10 +1,13 @@
-# DH150-Assignment1
+# Heuristics Evaluation of Netflix
 
-*Heuristics Evaluation of Netflix*
-By Wendy Li
-Course: DH 150/Professor Cho
+*By Wendy Li/DH 150/Professor Cho*
 
-Brief summary of the web/app of choice and your overall evaluation
+## Summary: 
+
+
+
+## Overall evaluation: 
+
 Description about the community you want to contribute to with your UX design
 
 10 Heuristics Analysis:
