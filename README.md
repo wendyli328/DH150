@@ -4,11 +4,18 @@
 
 UX Mission Statement: I would like to contribute to the community of avid film and television consumers who are looking for more accessible ways to watch content. 
 
-## Summary: 
+## App Information: 
+
+### URL: https://www.netflix.com/browse
+
+### Screenshot: 
+![Image of Netflix](https://octodex.github.com/images/yaktocat.png)
+
+### Summary: 
 
 Netflix is an over-the-top, direct-to-consumer platform that provides on-demand film and television programming. 
 
-## Overall evaluation: 
+### Overall evaluation: 
 
 Netflix has incredible user experience design....
 
