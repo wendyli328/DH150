@@ -39,23 +39,27 @@ Evaluation:
 
 Netflix consistently uses words and phrases familiar to the user such as "TV Shows" "Movies" "Latest" "Home". However, words such as "My Netflix" is less clear in world world context, and require the users to learn that it comprises lists of shows that the user watched in the past, and lists of shows the the user favorited. Nevertheless, I thought this categorization made sense because it basically comprises content personalized for the user, hence it's called "My Netflix". In addition, the icons on the right hand of the page does not have obvious meaning to the user. I wouldn't know what the present icon meant unless I clicked into it and learned that I can purchase Netflix as a gift to a friend. 
 
-Severity Ratings: 2 
+Severity Ratings: 1 (Some of the terms are unfamiliar to the user, but since they are easy to learn, they will not cause severe confusion and frustration)
 
 
-3. User control and freedom 
+### 3. User control and freedom 
 	Users often choose system functions by mistake.
 	Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. 
 	Support undo and redo. 
 
-Evaluation
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+Evaluation: 
 
-4. Consistency and standards 
+Netflix provides a high degree of user control and freedom. If the user accidentally click into any show or movie on the landing page, a banner with the description of the content shows up in the center of the page, without covering the rest of the landing page. This banner has a clear exit sign, and the viewer can clearly see the rest of the landing page beneath the banner, they will remain oriented to their position in the website once they exit the banner. However, there is one issue regarding this heuristic that Netflix can potentially improve on. When a user clicks into a picture, the exit symbol is demonstrated by an "X" on the right upper corner as the picture loads. However, after the picture finishes loading and the movie plays, the user can only exit by pressing the arrow button on the left upper corner. The change of position is confusing and makes it harder to exit. 
+
+Severity Ratings: 1 
+
+### 4. Consistency and standards 
 	Users should not have to wonder whether different words, situations, or actions mean the same thing. 
 	Follow platform conventions. 
 
 Evaluation
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+
+
 
 5. Error prevention 
 	Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
@@ -74,6 +78,8 @@ Evaluation
 7. Flexibility and efficiency of use 
 	Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
 	Allow users to tailor frequent actions. 
+
+Short cut-- you can choose to play directly or open it. But sometimes you can accidentally click in when you're trying to read the description. 
 
 Evaluation
 [Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
