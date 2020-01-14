@@ -9,7 +9,7 @@ UX Mission Statement: I would like to contribute to the community of avid film a
 ### URL: https://www.netflix.com/browse
 
 ### Screenshot: 
-![Image of Netflix](https://github.com/wendyli328/DH150-Assignment1/blob/master/Screen%20Shot%202020-01-13%20at%2010.23.14%20PM.jpg)
+![Image of Netflix](https://github.com/wendyli328/DH150-Assignment1/blob/master/Screen%20Shot%202020-01-13%20at%2010.29.52%20PM.jpg)
 
 ### Summary: 
 
@@ -19,15 +19,17 @@ Netflix is an over-the-top, direct-to-consumer platform that provides on-demand 
 
 Netflix has incredible user experience design....
 
+## 10 Heuristics Analysis:
 
-
-10 Heuristics Analysis:
-1. Visibility of system status 
+### 1. Visibility of system status 
 	Always keep users informed about what is going on.
 	Provide appropriate feedback within reasonable time. 
 
-Evaluation
-[Enter your observation and evaluation of the degree to which this Heuristic has been satisfied. Use as much space as you see fit.]
+Evaluation: 
+
+Netflix includes a clearly visible navigation bar at the top of its landing page. Since the viewers' gaze scans from left to right, Netflix prioritizes information important to the viewers (ie. whether they want to watch a movie or a show) on the top corner of the left side of the landing page, and places administrative account information at the right corner of the landing page. Furthermore, the location of the navigation bars is consistent on every page in Netflix, so the user knows where to look to find out what page they are on. Furthermore, once the user selects a button on the navigation bar (ie. Home/TV Shows/Movie), the button becomes bolded. This provides appropriate feedback to the user and informs his or her that their interaction was successful. Overall, Netflix very well satisfies the first heuristic. 
+
+Severity Ratings: 0
 
 2. Match between system and the real world 
 	Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
