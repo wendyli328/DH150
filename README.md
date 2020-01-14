@@ -1,14 +1,18 @@
 # Heuristics Evaluation of Netflix
 
-*By Wendy Li/DH 150/Professor Cho*
+*By Wendy Li (DH 150-Professor Cho)*
+
+UX Mission Statement: I would like to contribute to the community of avid film and television consumers who are looking for more accessible ways to watch content. 
 
 ## Summary: 
 
-
+Netflix is an over-the-top, direct-to-consumer platform that provides on-demand film and television programming. 
 
 ## Overall evaluation: 
 
-Description about the community you want to contribute to with your UX design
+Netflix has incredible user experience design....
+
+
 
 10 Heuristics Analysis:
 1. Visibility of system status 
