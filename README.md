@@ -1,10 +1,11 @@
 # Heuristics Evaluation of Netflix
 
+## About Me:
 *By Wendy Li (DH 150-Professor Cho)*
 
 UX Mission Statement: I would like to contribute to the community of avid film and television consumers who are looking for more accessible ways to watch content. 
 
-## App Information: 
+## About Netflix: 
 
 ### URL: https://www.netflix.com/browse
 
