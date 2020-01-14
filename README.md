@@ -1,9 +1,9 @@
 # Heuristics Evaluation of Netflix
 
 ## About Me:
-*By Wendy Li (DH 150-Professor Cho)*
+My name is Wendy Li. This project is the first assignment of DH 150 taught by Professor Cho. 
 
-UX Mission Statement: I would like to contribute to the community of avid film and television consumers who are looking for more accessible ways to watch content. 
+My UX Mission Statement: I would like to contribute to the community of avid film and television consumers who are looking for more accessible ways to watch content. 
 
 ## About Netflix: 
 
