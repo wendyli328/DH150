@@ -9,7 +9,7 @@ UX Mission Statement: I would like to contribute to the community of avid film a
 ### URL: https://www.netflix.com/browse
 
 ### Screenshot: 
-![Image of Netflix](https://octodex.github.com/images/yaktocat.png)
+![Image of Netflix](https://github.com/wendyli328/DH150-Assignment1/blob/master/Screen%20Shot%202020-01-13%20at%2010.23.14%20PM.jpg)
 
 ### Summary: 
 
