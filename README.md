@@ -17,7 +17,7 @@ Netflix is an over-the-top, direct-to-consumer platform that provides on-demand 
 
 ### Overall evaluation: 
 
-Netflix has incredible user experience design....
+Netflix provides a highly enjoyable user experience with visually spectacular design, clear navigation features, and easy to learn functions. Overall, it revolutionized the way we consume content by making home entertainment an incredibly delightful experience. 
 
 ## 10 Heuristics Analysis:
 
@@ -93,7 +93,7 @@ Severity Rating: 1 (Netflix can improve on diminishing the error margin of using
 	Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
 
 Evaluation: 
-Netflix has incredibly aesthetic and minimalist design. As the user enters the landing page, they see a giant, high quality cinematically pleasing moving picture, which sets up a tone of anticipation. Netflix didn't use the block formatting of many other streaming platforms that crowd the landing page and feels claustrophobic. In addition, Netflix puts a still photo in place of a video that doesn't load. This way, instead of seeing a loading video, which could be annoying, the user would see a high quality still image. 
+Netflix has incredibly aesthetic and minimalist design. As the user enters the landing page, they see a giant, high quality cinematically pleasing moving picture, which sets up a tone of anticipation. Netflix didn't use the block formatting of many other streaming platforms that crowd the landing page and feels claustrophobic. Netflix also programmed a preview of each movie or show to play automatically if the user hovers the mouse over it, which serves to attract the attention and interest of the user. In addition, Netflix puts a still photo in place of a video that doesn't load. This way, instead of seeing a loading video, which could be annoying, the user would see a high quality still image. 
 
 Severity Rating: n/a (It's amazing!)
 
