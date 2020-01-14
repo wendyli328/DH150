@@ -107,7 +107,7 @@ Severity Rating: n/a (It's amazing!)
 Evaluation:
 Netflix uses clear and empathetic language when expressing an error. It says things like "Something went wrong. Please refresh the page to enjoy Netflix again. We'll wait for you." It attempts to assuage the user's frustration and impatience at encoutering an error, and it provides a suggested solution. 
 
-Severity Rating: n/a
+Severity Rating: n/a (Errors don't occur that often, and when it does, Netflix's message that pops up is clear and humanized)
 
 
 ### 10. Help and documentation 
