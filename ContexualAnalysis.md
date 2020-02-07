@@ -28,8 +28,9 @@ Interviewee 1-Video: https://youtu.be/7s_w9wVguXk
 Interviewee 1-Transcript: https://otter.ai/note/22D2C2VSYJZJO5XW?f=%2Fall-notes (First bit cut off!)
 
 
-##Screenrecord of how they use the apps:
+## Screenrecord of how they use the apps:
 
 ## Reflections:
+From this contexual analysis, I learned that it's very difficult for users to have the initial motivation to go onto an app that will change their habits and lifestyle. Also, convenience is extremely important to users in habit tracking apps.
 
 Next time, I would like to think of ways to ask questions that doesn't sound like I'm blaming them or judging them for their food choices. I feel like asking questions about whether they care about the environment can make my interviewee feel like I'm judging them if they don't, and they feel awkward answering that question. In addition, I'd like to observe more how they make plans to eat with friends, and how a group of friends decide where to go out to eat together. 
