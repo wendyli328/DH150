@@ -16,8 +16,9 @@ The Good Fridge is an app that helps users make ethical choices in their everyda
 
 # Wireframe/Wireflow:
 
+App Prototype: https://www.figma.com/proto/H0bPNnnqnwFhrvZVXGQ689/First-Draft?node-id=28%3A6&scaling=scale-down 
+
 # User Testing
 https://youtu.be/P_Kz5_P8OaY
-
 
 # Reflection: 
