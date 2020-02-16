@@ -18,10 +18,14 @@ The Good Fridge is an app that helps users make ethical choices in their everyda
 
 App Prototype: https://www.figma.com/proto/H0bPNnnqnwFhrvZVXGQ689/First-Draft?node-id=28%3A6&scaling=scale-down 
 
+Wireframe (Sketch)
 ![Image of drawing](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.15.57%20PM.jpg)
+
+Wireframe (Figma)
 ![Image of Wireframes](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.11.35%20PM.jpg)
 
-# User Testing
+# Prototype Testing:
 https://youtu.be/P_Kz5_P8OaY
 
 # Reflection: 
+From my prototype testing, users had trouble finding the page of grocery suggestions. They explored every page but couldn't find where to press in order to receive suggestions on what to buy at the grocery market. I learned that the grocery list inputting page isn't clear. It doesn't directly prompt users to input their grocery list in order to get suggestions. Users are confused about the "save" button, since it doesn't indicate further action. I will change the language on the buttons in order to make it more clear, and perhaps add an explanation on that page that after they input their grocery list, they will receive suggestions on what to buy. 
