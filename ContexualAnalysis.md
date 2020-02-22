@@ -29,7 +29,6 @@ Interviewee 1-Transcript: https://otter.ai/note/22D2C2VSYJZJO5XW?f=%2Fall-notes 
 
 Interviewee 2- Video: https://www.youtube.com/watch?v=1dVhb6X_Fw4
 
-## Screenrecord of how they use the apps:
 
 ## Reflections:
 From this contexual analysis, I learned that it's very difficult for users to have the initial motivation to go onto an app that will change their habits and lifestyle. Also, convenience is extremely important to users in habit tracking apps. In addition, financial constraints is a major obstacle preventing users from making ethical choices.
