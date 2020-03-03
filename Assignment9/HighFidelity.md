@@ -9,7 +9,7 @@
 5. Users can view a simplified visual breakdown of the food they are consuming in their home page. The page is designed to invoke the homey feeling of opening the fridge and viewing what's inside. 
 
 # Examples of screen designs (3-5 screens) 
-![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.53.58%20AM.jpg)
+![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.53.58%20AM.jpg | height= 300)
 ![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.54.20%20AM.jpg)
 ![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.54.42%20AM.jpg)
 ![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.54.57%20AM.jpg)
