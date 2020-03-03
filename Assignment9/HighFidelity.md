@@ -15,12 +15,20 @@
 ![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.54.57%20AM.jpg)
 ![Image of screen design](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.55.22%20AM.jpg)
 
-# Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
+# Description of your decision making of the graphical interface design:
+I chose this color scheme to invoke a home-like, comfortable feeling while emphasizing the app's focus on sustainability and ethical issues. I used a green background to create a calming atmosphere. The yellow highlights pop against the background, and creates a playful but harmonious effect. I also chose the additional colors of bright orange, green, and blue to add a splash of color and appear more youthful and energetic. In general, I picked muted, gender-neutral colors to create a sense of intimacy that targets both male and female users. I checked accessibility color contrast to make sure my texts stood out from the background. 
 
-# One image with the wireflow with graphic design
+In addition, I chose rounder shapes as part of my graphical interface design to create the sense of harmony and completion. I used many circles that gives off the sense of balance, and other rectangles with rounder edges to similarly create a sense of comfort and safe space for the users. 
 
-# Link to the interactive prototype or embed window that shows the prototype.
+# Wireflow with graphic design: 
+![Image of Wire Flow](https://github.com/wendyli328/DH150/blob/master/Assignment9/Screen%20Shot%202020-03-03%20at%203.36.59%20AM.jpg)
 
-# If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
+# Link to the interactive prototype or embed window that shows the prototype: 
+https://www.figma.com/proto/H0bPNnnqnwFhrvZVXGQ689/First-Draft?node-id=28%3A6&scaling=scale-down
 
+# Description of what I learned from other’s feedback and what I changed:
+I learned from other's feedback that the language and layout of my grocery list page doesn't make sense. They didn't expect the buttons to lead them to a page giving them suggestions on how they can make changes to the food they buy. I changed the button and language in attempt to clarify the function of that page. 
 
+I also think some of my pages appear cluttered so I made my margins smaller and decreased the amount of words on the page. I also deleted most of the shape borders to create a more rounder softer appearance. 
+
+Lastly, some people mentioned that the language I used in the personal profile page of the app is inconsistent-- switching between first and second person pronouns. I made it more consistent by only using first person pronoun on that page. 
