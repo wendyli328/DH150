@@ -16,8 +16,12 @@ https://github.com/wendyli328/DH150/blob/master/Contexual-Inquiry/2.md
 
 ## UX Storytelling:
 ![scenario 1](https://github.com/wendyli328/DH150/blob/master/Scenario%201-page-001.jpg)
-![scenario 2] (https://github.com/wendyli328/DH150/blob/master/Scenario%202-page-001.jpg)
-![scenario 3] (https://github.com/wendyli328/DH150/blob/master/Scenario%203.pdf) 
+![scenario 2](https://github.com/wendyli328/DH150/blob/master/Scenario%202-page-001.jpg)
+![scenario 3](https://github.com/wendyli328/DH150/blob/master/Scenario%203.pdf) 
+
+![persona 1](https://github.com/wendyli328/DH150/blob/master/Persona%201-page-001.jpg)
+![persona 2](https://github.com/wendyli328/DH150/blob/master/Persona%202-page-001.jpg)
+![persona 3](https://github.com/wendyli328/DH150/blob/master/Persona%203.jpg)
 
 
 ## Wireframe and graphic design element variation:
