@@ -19,17 +19,22 @@ https://github.com/wendyli328/DH150/blob/master/Contexual-Inquiry/2.md
 https://github.com/wendyli328/DH150/tree/master/assignment07
 
 ## Low-fidelity Prototype 
-https://www.figma.com/file/H0bPNnnqnwFhrvZVXGQ689/First-Draft
+Wireframe (Sketch)
+![Image of drawing](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.15.57%20PM.jpg)
+
+Wireframe (Figma)
+![Image of Wireframes](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.11.35%20PM.jpg)
+
+https://github.com/wendyli328/DH150/blob/master/LoFiPrototype.md
+
 
 ## High-fidelity Prototype
 https://www.figma.com/proto/5bBrzsvZBtRhcJQkxBVB46/Third-Draft?node-id=28%3A6&scaling=scale-down
 
-
 6) UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 7) Wireframe and graphic design element variation [assignment07 + part of 08]
-8) Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
 
 10) Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
