@@ -50,6 +50,7 @@ Version 2: https://www.figma.com/proto/5bBrzsvZBtRhcJQkxBVB46/Third-Draft?node-i
 
 ## Pitch video [update the video after recording your presentation]
 https://www.youtube.com/watch?v=x9HzxSUGfUo
+https://www.youtube.com/watch?v=LKJKVY8N0es
 
 ## Conclusion:
 I learned that UI UX design is in many ways a scientific pursuit. It involves research, repeated testings, evaluation, etc. It's not simply seeing that something looks good or feeling like something works and implementing it. I learned from this class that UI UX is systematic and disciplined. Through this class, I gained a better understanding of where and how to start my own independent projects. It gave me the tools to create something that I can otherwise just imagine. 
