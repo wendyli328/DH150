@@ -15,19 +15,22 @@ https://github.com/wendyli328/DH150/blob/master/SampleUsabilityTesting.md
 https://github.com/wendyli328/DH150/blob/master/Contexual-Inquiry/2.md
 
 ## UX Storytelling:
+![scenario 1](https://github.com/wendyli328/DH150/blob/master/Scenario%201-page-001.jpg)
+![scenario 2] (https://github.com/wendyli328/DH150/blob/master/Scenario%202-page-001.jpg)
+![scenario 3] (https://github.com/wendyli328/DH150/blob/master/Scenario%203.pdf) 
+
 
 ## Wireframe and graphic design element variation:
 https://github.com/wendyli328/DH150/tree/master/assignment07
 
 ## Low-fidelity Prototype 
-Wireframe (Sketch)
+Wireframe (Sketch):
 ![Image of drawing](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.15.57%20PM.jpg)
 
-Wireframe (Figma)
+Wireframe (Figma):
 ![Image of Wireframes](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.11.35%20PM.jpg)
 
 https://github.com/wendyli328/DH150/blob/master/LoFiPrototype.md
-
 
 ## High-fidelity Prototype
 https://www.figma.com/proto/5bBrzsvZBtRhcJQkxBVB46/Third-Draft?node-id=28%3A6&scaling=scale-down
