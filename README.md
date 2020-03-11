@@ -20,6 +20,8 @@ https://github.com/wendyli328/DH150/blob/master/Contexual-Inquiry/2.md
 
 ## UX Storytelling:
 From creating scenarios and personas, I was able to hone down on the key features that I want to include in my wireframes. 
+
+<img src=”https://github.com/wendyli328/DH150/blob/master/Scenario%201-page-001.jpg” height=”300px”> 
 ![scenario 1](https://github.com/wendyli328/DH150/blob/master/Scenario%201-page-001.jpg)
 ![scenario 2](https://github.com/wendyli328/DH150/blob/master/Scenario%202-page-001.jpg)
 ![scenario 3](https://github.com/wendyli328/DH150/blob/master/Scenario%203-page-001.jpg) 
